@@ -1,0 +1,14 @@
+{
+  "title": "Age of Ashes 2",
+  "id": "age-of-ashes-2",
+  "system": "pf2e",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "5.13.6",
+  "lastPlayed": "Mon Aug 19 2024 18:53:41 GMT+0200 (Central European Summer Time)",
+  "playtime": 314
+}
